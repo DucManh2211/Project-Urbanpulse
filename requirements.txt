@@ -1,13 +1,5 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-psycopg2-binary
-pydantic
-joblib
-osmnx
-networkx
-numpy
+streamlit
+folium
+streamlit-folium
+requests
 pandas
-xgboost
-scikit-learn
-python-dotenv
